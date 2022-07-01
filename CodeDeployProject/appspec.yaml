@@ -16,3 +16,4 @@ hooks:
     - location: restart_app.sh
       timeout: 6
       runas: ec2-user
+
